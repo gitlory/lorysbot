@@ -8,17 +8,17 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
+  ['393889543746', 'nobody|'],
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['393889543746'] 
+global.prems = ['393888543746'] 
+global.reportes_solicitudes = ['393889543746']
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
+global.packname = 'bestboteu'
+global.author = 'Lith'
+global.wm = 'Lith'
 global.vs = '3.0'
-global.igfg = '★ცơɬῳɧąıɬą★'
+global.igfg = 'Lith'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -38,10 +38,10 @@ global.mes = d.toLocaleDateString('it', { month: 'long' })
 global.año = d.toLocaleDateString('it', { year: 'numeric' })
 global.tiempo = d.toLocaleString('it', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ ცơɬῳɧąıɬą`
+global.wm2 = `▸ ${dia} ${fecha}\n▸ Lith`
 global.gt = '★ცơɬῳɧąıɬą★'
 global.mysticbot = '★ცơɬῳɧąıɬą★'
-global.md = 'https://github.com/Fabri115/botwhaita'
+global.md = 'https://pornhub.com'
 global.mysticbot = 'https://github.com/Fabri115/botwhaita'
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
